@@ -77,9 +77,7 @@ a:hover {
   border-radius: 1000px;
 }
 
-.social-media a i {
-  animation: s-media 1s linear;
-}
+
 @keyframes s-media {
   from {
     transform: translate(50%, 50%);
